@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Gautam Gupta 👋
 
-<!--
-**gautamgpt311/gautamgpt311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aeronautical Engineer | Data Analyst | SQL • Power BI • Excel**
 
-Here are some ideas to get you started:
+Aeronautical Engineering graduate from Hindustan Institute of Technology and Science (HITS), Chennai. I spent the last year building hands-on skills in data analytics — designing SQL databases, writing business-driven queries, and creating Power BI dashboards focused on airline operations and MRO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently seeking entry-level Data Analyst roles in aviation, aerospace, and IT sectors.
+
+---
+
+## 🛠️ Skills
+
+| Tool | Skills |
+|------|--------|
+| **MySQL** | Joins, CTEs, Window Functions, Subqueries, LOAD DATA INFILE |
+| **Power BI** | DAX, CALCULATE, RANKX, Drill-through, Bookmarks, What-if Parameters |
+| **Excel** | Pivot Tables, VLOOKUP, Data Cleaning, Charts |
+| **Domain** | MRO Operations, Airline Performance, Fleet Management, Aerodynamics |
+
+---
+
+## 📂 Projects
+
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [AeroMRO SQL Analysis](https://github.com/gautamgpt311/aeromro-sql-analysis) | MySQL | SQL analysis of MRO operations — fleet health, maintenance TAT, technician performance, inventory risk across a custom 9-table database |
+| [AeroMRO Power BI Dashboard](https://github.com/gautamgpt311/aeromro-analytics-powerbi-dashboard) | Power BI | Interactive dashboard built on the AeroMRO MySQL database with advanced DAX and drill-through |
+| [US Flight Delays SQL Analysis](https://github.com/gautamgpt311/flight-delays-sql-analysis) | MySQL | Analyzing 5.8M US domestic flights to uncover delay patterns, cancellation causes and airline performance |
+| [US Flight Delays Power BI Dashboard](https://github.com/gautamgpt311/flight-delays-powerbi-dashboard) | Power BI | Interactive dashboard analyzing 5.8M flight records — airline performance, route analysis, cancellation patterns |
+| [Indian Airlines Price Analysis](https://github.com/gautamgpt311/indian-airlines-sql-analysis) | MySQL | Analyzing 300K Indian airline ticket records to uncover pricing patterns, booking trends and route economics |
+| [Supply Chain SQL Analysis](https://github.com/gautamgpt311/supply-chain-sql-analysis) | MySQL | SQL analysis of supply chain operations |
+
+---
+
+## 📄 Research & Publication
+
+**Numerical Analysis of Aerodynamic Performance of Winglets with Different Cant Angles**
+- Published on **Springer (2025)**
+- Presented at **2nd International Conference on Smart Sustainable Materials and Technologies (ICSSMT 2024)**
+- Designed multiple winglet models in SolidWorks, performed CFD simulations in ANSYS Fluent, analyzed Lift/Drag coefficients across cant angle variations
+
+---
+
+## 📬 Connect
+
+- LinkedIn: [linkedin.com/in/gautamgupta2108](http://www.linkedin.com/in/gautamgupta2108)
+- Email: gautamgupta2108@gmail.com
