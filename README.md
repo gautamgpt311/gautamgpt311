@@ -12,10 +12,10 @@ Currently seeking entry-level Data Analyst roles in aviation, aerospace, and IT 
 
 | Tool | Skills |
 |------|--------|
-| **MySQL** | Joins, CTEs, Window Functions, Subqueries, LOAD DATA INFILE |
+| **MySQL** | Joins, CTEs, Window Functions, Subqueries, NULL Handling, CASE WHEN, LOAD DATA INFILE |
 | **Power BI** | DAX, CALCULATE, RANKX, Drill-through, Bookmarks, What-if Parameters |
-| **Excel** | Pivot Tables, VLOOKUP, Data Cleaning, Charts |
-| **Domain** | MRO Operations, Airline Performance, Fleet Management, Aerodynamics |
+| **Excel** | Pivot Tables, VLOOKUP / XLOOKUP, Data Cleaning, Charts |
+| **Domain** | MRO Operations, Airline Performance Analysis, Fleet Management, Flight Delay Analysis, Aerodynamics |
 
 ---
 
