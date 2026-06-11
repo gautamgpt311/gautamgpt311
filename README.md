@@ -12,8 +12,8 @@ Currently seeking entry-level Data Analyst roles in aviation, aerospace, and IT 
 
 | Tool | Skills |
 |------|--------|
-| **MySQL** | Joins, CTEs, Window Functions, Subqueries, NULL Handling, CASE WHEN, LOAD DATA INFILE |
-| **Power BI** | DAX, CALCULATE, RANKX, Drill-through, Bookmarks, What-if Parameters |
+| **MySQL** | Joins, CTEs, Window Functions(RANK, ROW_NUMBER, LAG, LEAD), Subqueries, NULL Handling, CASE WHEN, LOAD DATA INFILE |
+| **Power BI** | DAX, CALCULATE, RANKX, Drill-through, Data Modelling, SUMX, VAR…RETURN, Power Query, What-if Parameters, Power BI Service |
 | **Excel** | Pivot Tables, VLOOKUP / XLOOKUP, Data Cleaning, Charts |
 | **Domain** | MRO Operations, Airline Performance Analysis, Fleet Management, Flight Delay Analysis, Aerodynamics |
 
@@ -28,7 +28,7 @@ Currently seeking entry-level Data Analyst roles in aviation, aerospace, and IT 
 | [US Flight Delays SQL Analysis](https://github.com/gautamgpt311/flight-delays-sql-analysis) | MySQL | Analyzing 5.8M US domestic flights to uncover delay patterns, cancellation causes and airline performance |
 | [US Flight Delays Power BI Dashboard](https://github.com/gautamgpt311/flight-delays-powerbi-dashboard) | Power BI | Interactive dashboard analyzing 5.8M flight records — airline performance, route analysis, cancellation patterns |
 | [Indian Airlines Price Analysis](https://github.com/gautamgpt311/indian-airlines-sql-analysis) | MySQL | Analyzing 300K Indian airline ticket records to uncover pricing patterns, booking trends and route economics |
-| [Supply Chain SQL Analysis](https://github.com/gautamgpt311/supply-chain-sql-analysis) | MySQL | SQL analysis of supply chain operations |
+| [Supply Chain SQL Analysis](https://github.com/gautamgpt311/supply-chain-sql-analysis) | MySQL | Analyzing 180K global supply chain orders to identify delivery failures, profit leakage and suspected fraud patterns using MySQL |
 
 ---
 
