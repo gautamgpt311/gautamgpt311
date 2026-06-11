@@ -1,4 +1,4 @@
-# Hi, I'm Gautam Gupta 👋
+# Hi, I'm Gautam Gupta
 
 **Aeronautical Engineer | Data Analyst | SQL • Power BI • Excel**
 
